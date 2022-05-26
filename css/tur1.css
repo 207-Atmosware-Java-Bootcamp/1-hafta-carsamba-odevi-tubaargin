@@ -1,0 +1,22 @@
+*{
+background-color:antiquewhite
+}
+
+.box{
+    background-color: blue;
+    height: 25vh;
+    width: 40vh;
+    float:right;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 8px;
+
+}
+.circle{
+    background-color:red;
+    height: 30vh;
+    width: 30vh;
+   float:left;
+    border-radius: 50%;
+}

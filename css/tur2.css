@@ -1,0 +1,43 @@
+* {
+    background-color: black;
+}
+h1{
+    color: #90C226;
+}
+
+.container {
+    background: black;
+    width: 550px;
+    height: 100px;
+    padding-bottom: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    padding: 50px;
+    color: white;
+    border: 5px solid red;
+}
+
+.box1 {
+    background-color: black;
+    height: 15vh;
+    width: 40vh;
+    float: right;
+    border: 5px solid yellow;
+    text-align: center;
+    color: blue;
+    line-height:50px; 
+}
+
+.box2 {
+    background-color: black;
+    border: 5px solid yellow;
+    height: 15vh;
+    width: 40vh;
+    float: left;
+    text-align: center;
+    color: blue;
+    line-height:50px; 
+}
