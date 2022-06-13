@@ -12,8 +12,7 @@
 4) Aşağıdaki kodları araştıralım
 - box-sizing: content-box; (default)
 - box-sizing: border-box;
- 
-****************************************
+
 5) Kutunun köşelerini 2 4 6 8 (saat yönünde olacak şekilde ayarlayınız).
 - top-left    => 2 olmalı
 - top-right   => 4 olmalı
@@ -25,6 +24,6 @@
 
 ![tur2](https://user-images.githubusercontent.com/86284062/173369691-08d9b86a-ae7f-43b1-bd8a-94ff0918aed2.png)
 
-Not: Yaptığınız değişiklikleri net olarak görmek için border kalınlığını ve rengini istediğiniz şekilde degiştirebilirsiniz. Örnegin border kalınlığı 3px rengi ise mavi gibi olabilir.
+Not: Yaptığınız değişiklikleri net olarak görmek için border kalınlığını ve rengini istediğiniz şekilde degiştirebilirsiniz. Örneğin border kalınlığı 3px rengi ise mavi gibi olabilir.
 
 
