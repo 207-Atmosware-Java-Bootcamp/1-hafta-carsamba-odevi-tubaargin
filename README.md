@@ -1,6 +1,5 @@
 # 1.hafta.carsamba.odevi
-1) display:none;
-visibility:none arasındaki fark nedir ?
+1)display:none; visibility:none arasındaki fark nedir ?
 
 2)pseudo class ile pseudo element nedir?
 
