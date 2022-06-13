@@ -29,3 +29,5 @@ Not: Yaptiginiz degisiklikleri net olarak gormek icin border kalinligini ve reng
 3) pseudo class ve pseudo element nedir arastiriniz. 
 4) css selectors nedir? Grup selectorler nelerdir? 
 5) box-sizing nedir? border-box ve content-box ile kullanimlarina bakiniz?
+![tur1](https://user-images.githubusercontent.com/86284062/173369674-21d057a0-474b-4099-a24a-ca0a3f34e379.png)
+![tur2](https://user-images.githubusercontent.com/86284062/173369691-08d9b86a-ae7f-43b1-bd8a-94ff0918aed2.png)
