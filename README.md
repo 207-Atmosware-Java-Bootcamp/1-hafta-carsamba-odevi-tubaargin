@@ -1,7 +1,7 @@
 # 1.hafta çarşamba ödevi (25.05.2022)
 1) display:none; visibility:none arasındaki fark nedir ?
 2) pseudo class ile pseudo element nedir?
-3) group selectors : yandaki kodlar ne yapıyor?
+3) group selectors : Aşağıdaki kodlar ne yapıyor?
 - *==> 
 - div,p{} ==>
 - div p{} ==> 
